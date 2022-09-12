@@ -13,6 +13,3 @@ Issue the following command when installing locally:
 ``` bash
 npm --i
 ```
-
-## Links
-This app is deployed to Heroku: https://sleepy-earth-44596.herokuapp.com/
